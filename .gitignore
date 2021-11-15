@@ -154,5 +154,5 @@ dmypy.json
 cython_debug/
 
 # data
-data/
+data/Arthritis_on_heart_attack.csv
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
